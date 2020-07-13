@@ -78,7 +78,7 @@ export default {
   }
   .carousel-img {
     width: auto;
-    height: 70vh !important;
+    height: 80vh !important;
     // display: block !important;
     width: 100vw;
   }
